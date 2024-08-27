@@ -11,6 +11,10 @@
 .tweet {  
     margin-bottom: 1rem;
 }
+.tweet-edit-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
 
 .likes, .time {
     font-size: xx-small;
